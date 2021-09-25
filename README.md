@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BautiPeira
 - 👀 I’m interested in developing
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ArgsTeam
+- ❗ I’m looking to collaborate on Nisancraft
 - 📫 Discord: Sr. Peira#2000
 
 <!---
