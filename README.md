@@ -8,6 +8,7 @@
  - 👨‍🎓 I had studied **Web Development** on [Coderhouse](https://coderhouse.com). 
  - 👨‍💻 Currently learning **JavaScript**.
  - 👑 Owner of [**Matrix Studios**](https://discord.gg/PGJvbxWZVJ).
+ - ☁ Owner of [**Levelcloud**](https://dashactyl.levelcloud.cl), my hosting companie.
 
 <h2 align="center">📩 Contact me</h2>
  <h4>🔵 Discord: ! BautiPeira#1458</h4>
