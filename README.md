@@ -5,7 +5,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
- - 👨‍🎓 I had studied **Web Development** on [Coderhouse](https://coderhouse.com). 
+ - 👨‍🎓 I have studied **Web Development** on [Coderhouse](https://coderhouse.com). 
  - 👨‍💻 Currently learning **JavaScript**.
  - 👑 Owner of [**Matrix Studios**](https://discord.gg/PGJvbxWZVJ).
  - ☁ Owner of [**Levelcloud**](https://dashactyl.levelcloud.cl), my hosting companie.
